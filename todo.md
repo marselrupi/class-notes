@@ -2,6 +2,8 @@
 
 ##Problem
 * No table of contents makes for a bad navigation
+** Hard to scroll
+** Hard to get an overview of chapters
 * Document pdf file format instead of web format
 
 ##Feature
